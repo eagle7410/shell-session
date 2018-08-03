@@ -1,0 +1,24 @@
+{
+  "name": "shell-session",
+  "version": "1.0.0",
+  "description": "Session for shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eagle7410/shell-session.git"
+  },
+  "keywords": [
+    "shell",
+    "cmd",
+    "session"
+  ],
+  "author": "Igor Stcherbina <verycooleagle@gmail.com> (http://github.com/eagle7410)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eagle7410/shell-session/issues"
+  },
+  "homepage": "https://github.com/eagle7410/shell-session#readme"
+}
